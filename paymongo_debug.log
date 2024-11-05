@@ -1,0 +1,16 @@
+{"errors":[{"code":"resource_not_found","detail":"No such checkout session with id {CHECKOUT_SESSION_ID}."}]}Response: {"errors":[{"code":"resource_not_found","detail":"No such checkout session with id {CHECKOUT_SESSION_ID}."}]}
+HTTP Code: 404
+API Response Error: HTTP Code: 404, Response: Array
+(
+    [errors] => Array
+        (
+            [0] => Array
+                (
+                    [code] => resource_not_found
+                    [detail] => No such checkout session with id {CHECKOUT_SESSION_ID}.
+                )
+
+        )
+
+)
+
